@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyroll-basic = "*"
+jupyterlab = "*"
+pandas = "*"
+scipy = "*"
+numpy = "*"
+matplotlib = "*"
+plotly = "*"
+pygad = "*"
+pymc = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
