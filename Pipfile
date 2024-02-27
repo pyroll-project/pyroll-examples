@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pyroll-basic = "~=2.1"
+pyroll-gripping-analysis = "*"
 jupyterlab = "*"
 pandas = "*"
 scipy = "*"
@@ -14,6 +15,8 @@ plotly = "*"
 pygad = "*"
 pymc = "*"
 jupyter = "*"
+pygad = "*"
+
 
 [dev-packages]
 
