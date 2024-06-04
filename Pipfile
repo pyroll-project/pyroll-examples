@@ -5,17 +5,17 @@ name = "pypi"
 
 [packages]
 pyroll-basic = "~=2.1"
-jupyterlab = "*"
-pandas = "*"
-scipy = "*"
-numpy = "*"
-matplotlib = "*"
+pyroll-export = "~=2.2"
+jupyter = "*"
+pandas = "~=2.0"
+scipy = "~=1.9"
+matplotlib = "~=3.6"
 plotly = "*"
 pygad = "*"
 pymc = "*"
-jupyter = "*"
 pycalphad = "*"
 kaleido = "*"
+tqdm = "~=4.0"
 
 [dev-packages]
 
