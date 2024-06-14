@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pyroll-basic = "~=2.1"
 pyroll-export = "~=2.2"
+pyroll-jmak-recrystallization = "~=2.1"
 jupyter = "*"
 pandas = "~=2.0"
 scipy = "~=1.9"
