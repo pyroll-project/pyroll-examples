@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 pyroll-basic = "~=2.1"
 pyroll-export = "~=2.2"
-pyroll-jmak-recrystallization = { path = "pyroll_jmak_recrystallization-2.2.0.tar.gz" }
+pyroll-jmak-recrystallization = "~=2.1"
 jupyter = "*"
 pandas = "~=2.0"
 scipy = "~=1.9"
@@ -22,4 +22,4 @@ ezdxf-shapely = "*"
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = ">=3.10"

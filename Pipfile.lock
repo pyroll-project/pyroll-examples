@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2f6e93a6050a302d5be4633345104068c7a2ed20a807dcd217b7d75d2d8a6d13"
+            "sha256": "9920d3c2b6d7ff14cbe10ea1eb4174b5a6a5d82f856ceeda05384eecc976576a"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.11"
+            "python_version": ">=3.10"
         },
         "sources": [
             {
@@ -1883,9 +1883,12 @@
         },
         "pyroll-jmak-recrystallization": {
             "hashes": [
-                "sha256:dd2b3bf81018324374aff0e3b7ff34db03dcad5991e3140084c8c38aea50627c"
+                "sha256:1cf6e38879a1bacec581204ab0ea92cb92eb25535f4826bb3ca9d45ecc619355",
+                "sha256:bd0c7eb383b4b5edc72850052c1a2669a841976fca6371be57d2d5d1691324e2"
             ],
-            "path": "pyroll_jmak_recrystallization-2.2.0.tar.gz"
+            "index": "pypi",
+            "markers": "python_version >= '3.9' and python_version < '4.0'",
+            "version": "==2.1.0"
         },
         "pyroll-lendl-equivalent-method": {
             "hashes": [
