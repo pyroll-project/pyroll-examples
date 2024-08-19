@@ -644,12 +644,12 @@
         },
         "ezdxf-shapely": {
             "hashes": [
-                "sha256:31e905a06294140d84d681b94a61d98c0f4d302e16eb0411c2bde030b363cd1d",
-                "sha256:ab29f65da6301fd73acd2c22cf3a498fe26113bbf14bad775c1287c311ab54eb"
+                "sha256:689119a18639822d0e4b462ccf34ce303a95f16e0e2d61ceeec11efb99af1e17",
+                "sha256:8b2429e3774ab689396e13789fbd16d19b37612577b09c6da7b18e7d2994b5b9"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==0.1"
+            "version": "==0.2"
         },
         "fastjsonschema": {
             "hashes": [

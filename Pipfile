@@ -17,7 +17,7 @@ pymc = "*"
 pycalphad = "*"
 kaleido = "*"
 tqdm = "~=4.0"
-ezdxf-shapely = "*"
+ezdxf-shapely = "~=0.2"
 
 [dev-packages]
 
