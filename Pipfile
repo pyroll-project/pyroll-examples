@@ -18,6 +18,7 @@ pycalphad = "*"
 kaleido = "*"
 tqdm = "~=4.0"
 ezdxf-shapely = "~=0.2"
+jupyterlab-spreadsheet-editor = "*"
 
 [dev-packages]
 
