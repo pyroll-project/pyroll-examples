@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pyroll-basic = "~=2.1"
+pyroll-pillar-model = "2.1.10"
+pyroll-sparling-spreading = "2.0"
+pyroll-neutral-point-estimator = "2.0.1"
 pyroll-export = "~=2.2"
 pyroll-jmak-recrystallization = "~=2.1"
 jupyter = "*"
