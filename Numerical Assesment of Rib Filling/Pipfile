@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+pandas = "~=2.0"
+scipy = "~=1.9"
+matplotlib = "~=3.6"
+plotly = "*"
+pymc = "*"
+kaleido = "*"
+ezdxf-shapely = "~=0.2"
+jupyterlab-spreadsheet-editor = "*"
+pyroll-ring-model-thermal = "*"
+numdifftools = "*"
+pyroll-core = "*"
+pyroll-zouhar-contact = "*"
+pyroll-freiberg-flow-stress = "*"
+pyroll-lendl-equivalent-method = "*"
+pyroll-wusatowski-spreading = "*"
